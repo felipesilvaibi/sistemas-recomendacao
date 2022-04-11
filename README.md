@@ -8,10 +8,10 @@
 - O recomendador por filtragem colaborativa leva em consideração que pessoas pensam da mesma forma ou produtos semelhantes tendem a dar ou receber notas semelhantes
 
 ### Algoritmo KNN (similaridade por distância euclidiana)
-- Cria a recomendação de produtos relacionados ao produto informado, com base ma similaridade do produto com outros produtos (sendo a similaridade determinada através da distância euclidiana entre os produtos)
+- Cria a recomendação de produtos relacionados ao produto informado com base na similaridade do produto com outros produtos (sendo a similaridade determinada através da distância euclidiana entre os produtos)
 
 ### Algoritmo SVD (similaridade por cosseno)
-- Cria a recomendação de produtos relacionados ao produto informado, com base ma similaridade do produto com outros produtos (sendo a similaridade determinada através do valor do cosseno do ângulo compreendido entre os produtos)
+- Cria a recomendação de produtos relacionados ao produto informado com base na similaridade do produto com outros produtos (sendo a similaridade determinada através do valor do cosseno do ângulo compreendido entre os produtos)
 
 # Organização das Pastas
 data: Todo e qualquer documento utilizado nas análises (.CSV, .XLSX, JSON, ...)
