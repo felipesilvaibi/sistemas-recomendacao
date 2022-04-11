@@ -14,8 +14,8 @@
 - Cria a recomendação de produtos relacionados ao produto informado com base na similaridade do produto com outros produtos (sendo a similaridade determinada através do valor do cosseno do ângulo compreendido entre os produtos)
 
 # Organização das Pastas
-data: Todo e qualquer documento utilizado nas análises (.CSV, .XLSX, JSON, ...)
-notebooks: Toda e qualquer análise (sendo arquivo .ipynb ou .py)
+- data: Todo e qualquer documento utilizado nas análises (.CSV, .XLSX, JSON, ...)
+- notebooks: Toda a qualquer análise (sendo arquivo .ipynb ou .py)
 
 # Instalação de Bibliotecas
-Instalar todas as bibliotecas da pasta requirements ($ sudo pip install -r requirements.txt)
+- Instalar todas as bibliotecas da pasta requirements ($ sudo pip install -r requirements.txt)
