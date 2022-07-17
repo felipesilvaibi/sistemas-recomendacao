@@ -1,4 +1,4 @@
-# Diferentes Sistemas de Recomendação Aplicados a um E-commerce
+# Sistemas de Recomendação
 
 ## Recomendador baseado em Popularidade
 - Recomendador geral baseado apenas na popularidade dos produtos
