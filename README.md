@@ -1,4 +1,8 @@
 # Sistemas de Recomendação
+Apresentação de três diferentes abordagens de Machine Learning aplicadas a sistemas de recomendação. Sendo eles:
+  1. Recomendação baseada em Popuridade
+  2. Recomendação baseada em Filtragem Colaborativa (similaridade por distância euclidiana - KNN)
+  3. Recomendação baseada em Filtragem Colaborativa (similaridade por cosseno - SVD)
 
 ## Recomendador baseado em Popularidade
 - Recomendador geral baseado apenas na popularidade dos produtos
